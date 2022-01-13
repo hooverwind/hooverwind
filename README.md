@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hooverwind
-- - ✨ I'm a Full Stack WebDev, Rust and C++ programmer, Database Designer
+- ✨ I'm a Full Stack WebDev, Rust and C++ programmer, Database Designer
 - 👀 I’m interested in hardware level, desktop and web application development
